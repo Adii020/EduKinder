@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Main.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/SelectNumber.unity
+    guid: f9bc7dd1b6ee6744eb5f4f3bd25dda9b
+  - enabled: 1
+    path: Assets/Scenes/PuzzleShape.unity
+    guid: 5224227e2387c7b4e8a268eb71bf2c89
+  - enabled: 1
+    path: Assets/Scenes/Addition.unity
+    guid: 37520a88dec5bd8408b940160cd63020
+  - enabled: 1
+    path: Assets/Scenes/DotJoin.unity
+    guid: 725babe955eb42d458092db6672cb94f
+  - enabled: 1
+    path: Assets/Scenes/WriteNumbers.unity
+    guid: 8028e32fc2b52a2428758a6064fead4c
   m_configObjects: {}
